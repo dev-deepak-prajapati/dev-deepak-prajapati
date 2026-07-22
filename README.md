@@ -6,10 +6,15 @@
 🚀 Full Stack Developer | Java • Spring Boot • React
 </h3>
 
-<p align="center">
-I'm a passionate Full Stack Developer from India 🇮🇳 who enjoys building scalable web applications using Java, Spring Boot, React, PHP, and MySQL. I love learning new technologies, solving real-world problems, and writing clean, maintainable code.
-</p>
+I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java, Spring Boot, Hibernate, JSP, Servlets, React, PHP, and MySQL. I enjoy building scalable web applications, designing REST APIs, and continuously learning modern technologies.
 ---
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,php,js,html,css,bootstrap,mysql,git,github,vscode,eclipse,idea,maven" />
+</p>
+
+<p align="center">
+<b>JSP</b> • <b>Servlet</b> • <b>Hibernate</b> • <b>REST API</b> • <b>JDBC</b>
+</p>
 
 ## 💫 About Me
 
@@ -22,50 +27,7 @@ I'm a passionate Full Stack Developer from India 🇮🇳 who enjoys building sc
 
 ---
 
-# 🛠 Tech Stack
 
-## 💻 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,php" />
-</p>
-
-- JSP
-- Servlet
-- Hibernate
-- Spring Boot
-- REST API
-- JDBC
-
----
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-## 🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,maven" />
-</p>
-
-- Tomcat
-- XAMPP
-- Postman
-
----
 
 # 📚 Currently Learning
 
