@@ -50,7 +50,13 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 
 # 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-deepak-prajapati&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deepak-prajapati&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-deepak-prajapati&theme=tokyonight&hide_border=true" />
