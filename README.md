@@ -80,11 +80,16 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 
 ---
 -->
+## 📫 Connect With Me
 
-# 📫 Connect With Me
-
-📧 **Email:** dev.deepak.prajapati@gmail.com
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-deepak-prajapati/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="mailto:dev.deepak.prajapati@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 ---
 
 <p align="center">
