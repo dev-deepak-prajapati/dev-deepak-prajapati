@@ -122,9 +122,9 @@ I'm a passionate Full Stack Developer from India 🇮🇳 who enjoys building sc
 
 📧 Email: your-email@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+##💼 LinkedIn: https://linkedin.com/in/your-profile
 
-🌐 Portfolio: https://your-portfolio.com
+##🌐 Portfolio: https://your-portfolio.com
 
 ---
 
