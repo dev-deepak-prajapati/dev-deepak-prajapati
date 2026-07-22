@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,php,js,html,css,bootstrap,mysql,git,github,vscode,eclipse,idea,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,php,js,html,css,bootstrap,c,cpp,mysql,git,github,vscode,eclipse,idea,maven" />
 </p>
 
 <p align="center">
