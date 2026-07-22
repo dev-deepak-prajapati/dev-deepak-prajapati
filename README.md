@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepak Prajapati</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Java+Backend+Developer;Spring+Boot+Developer;Hibernate+Developer;JSP+%26+Servlet+Developer;React+Developer;PHP+Developer;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Hibernate+Developer;JSP+%26+Servlet+Developer;React+Developer;PHP+Developer;Open+Source+Contributor" />
 </p>
 <h3 align="center">
-🚀 Full Stack Web Developer | Java Backend Developer | React Enthusiast
+🚀 Full Stack Developer | Java • Spring Boot • React
 </h3>
 
 <p align="center">
 I'm a passionate Full Stack Developer from India 🇮🇳 who enjoys building scalable web applications using Java, Spring Boot, React, PHP, and MySQL. I love learning new technologies, solving real-world problems, and writing clean, maintainable code.
 </p>
-
 ---
 
 ## 💫 About Me
@@ -122,11 +121,8 @@ I'm a passionate Full Stack Developer from India 🇮🇳 who enjoys building sc
 
 # 📫 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: dev.deepak.prajapati@gmail.com
 
-##💼 LinkedIn: https://linkedin.com/in/your-profile
-
-##🌐 Portfolio: https://your-portfolio.com
 
 ---
 
