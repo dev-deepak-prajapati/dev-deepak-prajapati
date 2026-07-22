@@ -51,17 +51,18 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 
 ---
 
+<!--
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=dev-deepak-prajapati&theme=algolia&margin-w=15)
 
 ---
-<!--
+-->
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=dev-deepak-prajapati&theme=react-dark)
+
 ---
--->
 
 # 🚀 Featured Projects
 
