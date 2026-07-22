@@ -47,21 +47,16 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 
 ---
 
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-deepak-prajapati&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-deepak-prajapati&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deepak-prajapati&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deepak-prajapati&layout=compact&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-deepak-prajapati&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-deepak-prajapati&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
