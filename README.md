@@ -90,6 +90,15 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
   <a href="mailto:dev.deepak.prajapati@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+  <a href="https://instagram.com/deepakprajapati2336" target="_blank">
+
+  <img src="https://img.shields.io/badge/@deepakprajapati2336-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+</a><a href="https://instagram.com/deepakprajapati2336" target="_blank">
+
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+
+</a>
 </p>
 ---
 
