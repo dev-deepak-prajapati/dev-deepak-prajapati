@@ -67,7 +67,17 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-deepak-prajapati&theme=react-dark&hide_border=true" />
 </p>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=dev-deepak-prajapati&show_icons=true&theme=github_dark" />
 
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-deepak-prajapati&layout=compact&theme=github_dark" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com/?user=dev-deepak-prajapati&theme=github-dark" />
+
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/dev-deepak-prajapati/dev-deepak-prajapati/output/github-contribution-grid-snake.svg" />
 ---
 <!--
 # 🚀 Featured Projects
