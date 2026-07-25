@@ -51,7 +51,8 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 
 <p align="center">
   <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-deepak-prajapati&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-deepak-prajapati&theme=tokyonight&hide_border=true" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-deepak-prajapati&theme=tokyonight&hide_border=true" /> -->
+  <img  width="49%" src="https://streak-stats.demolab.com/?user=dev-deepak-prajapati" />
 </p>
 
 <p align="center">
