@@ -60,7 +60,7 @@ I'm a passionate Full Stack Developer from India 🇮🇳 with expertise in Java
 # 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-deepak-prajapati&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-deepak-prajapati&theme=github_dark" />
 </p>
 ---
 
